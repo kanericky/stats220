@@ -14,7 +14,7 @@ This is a summary document page of my Stats 220 works....
 
 - <b>The new meme I have created</b>:
 
-  ![Image](https://github.com/kanericky/stats220/blob/main/STAT220A1_Meme.png)
+  ![Image](https://github.com/kanericky/stats220/blob/main/STAT220A1_Meme.png?raw=true)
   
 - **Information about the meme**
   
